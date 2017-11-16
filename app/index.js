@@ -15,7 +15,7 @@ var readFile = (files, ind) => {
 	});
 }
 
-var files = ["files/sample1/main.pdf", "files/sample2/main.pdf", "files/sample3/main.pdf", "files/sample4/main.pdf",  "files/sample5/main.pdf", "files/sample6/main.pdf"];
+var files = ["files/sample/main.pdf"];
 readFile(files, 0);
 
 
